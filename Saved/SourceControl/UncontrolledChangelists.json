@@ -6,6 +6,23 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/FusionOnline/GGJ2023/GGJ2023/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Menus/Credits.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Menus/MainMenu.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Menus/PauseMenu.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Levels/Credits.umap",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Levels/Level_1.umap",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Levels/MainMenu.umap",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/Menus/HUD.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/SmallPakage.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/Worker.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/ForkLift.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/Breaker.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/PackageSpawn.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/MedPackage.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/BigPackage.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/BP/SinglePlayer.uasset",
+				"D:/FusionOnline/GGJ2023/GGJ2023/Content/SinglePlayer.uasset",
 				"D:/FusionOnline/DevGames/GGJ2023/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
